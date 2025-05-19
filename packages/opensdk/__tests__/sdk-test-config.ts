@@ -12,7 +12,7 @@ export const daily = {
   appKey: '',
   appSecret: '',
   accessToken: '',
-  host: '',
+  host: 'https://pre-api.dingtalk.com',
   miniAppId: '',
   agentId: '',
 };
